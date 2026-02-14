@@ -11,4 +11,4 @@ Mi enfoque se centra en la creatividad, la visión estratégica y el impacto vis
 Este archivo forma parte de la actividad colaborativa de la Etapa 1 del curso Programación para Videojuegos.
 #
 
-![Mi Comida Favorita](DanielDiaz/Pizza-de-Pollo.jpg)
+![Mi Comida Favorita](CarenVargas/bandeja.gif)

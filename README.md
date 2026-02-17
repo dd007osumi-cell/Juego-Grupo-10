@@ -2,7 +2,7 @@
 
 # Integrante: Daniel Fernando Díaz
 
-![Foto de Perfil](DanielDiaz/Daniel-pfp.png)
+![Foto de Perfil](DanielDiaz/1Daniel-pfp.png)
 
 ## 👤 Información Personal
 *   **Rol en el equipo:** Artista 2D / Animador
@@ -19,4 +19,4 @@ Me considero una persona creativa y dispuesta a aprender, con el objetivo de apo
 ## 🍽️ Comida Favorita
 ¡Nada mejor para programar y diseñar que estar bien alimentado!
 
-![Mi Comida Favorita](DanielDiaz/Pizza-de-Pollo.jpg) 
+![Mi Comida Favorita](DanielDiaz/1Pizza-de-Pollo.jpg) 

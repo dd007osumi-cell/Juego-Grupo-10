@@ -7,9 +7,9 @@
 ![Foto de Perfil](DanielDiaz/1Daniel-pfp.png)
 
 ## 👤 Información Personal
-   **Rol en el equipo:** Artista 2D / Animador
-   **Ubicación:** Putumayo, Colombia
-   **Edad:** 21 años
+ *  **Rol en el equipo:** Artista 2D / Animador
+ *  **Ubicación:** Putumayo, Colombia
+ *  **Edad:** 21 años
 
 ## 🚀 Perfil Profesional
 Estudiante de la **UNAD** con un fuerte interés en el desarrollo visual de videojuegos.

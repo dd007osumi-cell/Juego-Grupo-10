@@ -1,6 +1,8 @@
 # 10 Gatos Amarillos
 
-<p>--------------------------------------------------<p>
+<p>--------------------------------------------------<p
+                                                       
+# Integrante: Caren Vargas Vela                                                   
 ![Foto de Perfil](perfil.jpeg)
 ## 👤 Información Personal
 Presentación de Integrante - Etapa 1
